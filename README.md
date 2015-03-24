@@ -39,6 +39,8 @@ Keyboard controls are indicated below.
 | A                     | Z           |
 | B                     | X           |
 
+@dud3
+
 ### Mappers
 
 The following mappers have been implemented:
